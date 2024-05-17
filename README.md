@@ -1,3 +1,5 @@
+![image](https://github.com/Anshika32/Adventure_Works_Sales_Analysis/assets/121334039/f927170a-1ba1-4bbc-bb36-1177bd7d9e57)
+
 # Adventure_Works_Sales_Analysis
 
 ## Overview
